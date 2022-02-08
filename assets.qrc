@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>1.png</file>
+        <file>2.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>demo/DemoInputCom.qml</file>
+    </qresource>
+</RCC>
