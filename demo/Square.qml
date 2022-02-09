@@ -10,5 +10,6 @@ Rectangle {
     Text {
         id: label
         text: root.text
+        color: "white"
     }
 }

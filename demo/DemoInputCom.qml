@@ -13,7 +13,7 @@ Rectangle {
         id: input
         anchors.fill: parent
         anchors.margins: 4
-        focus: true
+//        focus: true
         height: 20
     }
 }

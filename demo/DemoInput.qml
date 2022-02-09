@@ -13,7 +13,6 @@ Grid {
             y: 8
             width: 96
             height: 20
-            focus: true
             text: "Text Input 1"
             KeyNavigation.tab: input2
         }
@@ -42,7 +41,9 @@ Grid {
                 id: inputCom2
                 text: "inputCom2"
             }
-
+            DemoKeys {
+               id: demo
+            }
         }
     }
 }
